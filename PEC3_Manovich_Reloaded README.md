@@ -1,9 +1,9 @@
 # PEC 3: Visionando el futuro con las gafas de Manovich
 ### Redescubriendo la hibridación
  
-Autor: Marta Júdez Ballestín 
+ Autor: Marta Júdez Ballestín 
 
-Fecha: Mayo 2023
+ Fecha: Mayo 2023
 
 
 ## Introducción
@@ -61,6 +61,9 @@ En conclusión, Duolingo ha influido en la forma en que las personas aprenden un
 * Spectacles. https://www.spectacles.com/es/
 * Xataka. (20 Mayo 2021). Snapchat presenta sus primeras gafas de realidad aumentada para llevar sus filtros y objetos virtuales al entorno real. Disponible en: https://www.xataka.com/realidad-virtual-aumentada/snapchat-presenta-sus-primeras-gafas-realidad-aumentada-para-llevar-sus-filtros-objetos-virtuales-al-entorno-real
 * Duolingo. https://es.duolingo.com/
+* https://images.unsplash.com/
+* https://storage.googleapis.com/spectacles-v3/6b5bcd7414cdddf3e35be5e76a62ac7e9ef89693/Products/module1/DT/Product_Module1_DT_HoverOnModel.webp
+* https://marketing4ecommerce.net/wp-content/uploads/2015/09/duolingo-compressor-1280x720.jpg
 
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
