@@ -1,7 +1,7 @@
 # PEC 3: Visionando el futuro con las gafas de Manovich
 ### Redescubriendo la hibridación
  
-Autor: Marta Júdez  
+Autor: Marta Júdez Ballestín 
 Fecha: Mayo 2023
 
 
@@ -13,6 +13,7 @@ En este artículo, analizaremos dos casos en los que podemos observar esta hibri
 Gracias a estos ejemplos, veremos cómo la fusión de diversos elementos pueden generar productos innovadores y funcionales en el ámbito digital.
 
 ![Introducción](https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80)
+
 
 ## Re-descubriendo la hibridacion: Snapchat Spectacles 
 
@@ -33,6 +34,7 @@ Aunque este producto no ha llegado a cuajar del todo entre los usuarios, en tér
 En resumen, las Snapchat Spectacles son un destacado ejemplo de hibridación moderna que Manovich podría haber incluido en su libro. Estas gafas inteligentes fusionan elementos físicos y digitales para brindar una experiencia singular de captura y compartición de contenido. Al fusionar la realidad física con la digital, **las Snapchat Spectacles podrían llegar a suponer una nueva visión sobre cómo creamos, consumimos o interactuamos con el resto. **
 
 ![Spectacles](https://storage.googleapis.com/spectacles-v3/6b5bcd7414cdddf3e35be5e76a62ac7e9ef89693/Products/module1/DT/Product_Module1_DT_HoverOnModel.webp)
+
 
 
 ## Re-descubriendo la hibridacion: Duolingo
@@ -61,5 +63,4 @@ En conclusión, Duolingo ha influido en la forma en que las personas aprenden un
 
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
-
 Marta Júdez Ballestín. 2023
