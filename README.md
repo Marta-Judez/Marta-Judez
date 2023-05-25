@@ -12,7 +12,7 @@ La hibridación, según Lev Manovich, es el proceso de combinar elementos difere
 En este artículo, analizaremos dos casos en los que podemos observar esta hibridación: **Snapchat Spectacles** y **Duolingo**. 
 Gracias a estos ejemplos, veremos cómo la fusión de diversos elementos pueden generar productos innovadores y funcionales en el ámbito digital.
 
-![Introducción]([https://img.freepik.com/free-photo/man-hand-holding-virtual-world-with-internet-connection-metaverse-global-business-marketing-banking-financial-pass-thru-application-technology-concept_616485-32.jpg?w=1060&t=st=1684786051~exp=1684786651~hmac=2d401c16d5f9682ffc9786f88a67bf4ae453a4a885968d8f70a8e4fcfe234f7c](https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80))
+![Introducción](https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80)
 
 ## Re-descubriendo la hibridacion: Snapchat Spectacles 
 
@@ -32,21 +32,21 @@ Aunque este producto no ha llegado a cuajar del todo entre los usuarios, en tér
 
 En resumen, las Snapchat Spectacles son un destacado ejemplo de hibridación moderna que Manovich podría haber incluido en su libro. Estas gafas inteligentes fusionan elementos físicos y digitales para brindar una experiencia singular de captura y compartición de contenido. Al fusionar la realidad física con la digital, **las Snapchat Spectacles podrían llegar a suponer una nueva visión sobre cómo creamos, consumimos o interactuamos con el resto. **
 
-![Spectacles]([https://img.freepik.com/free-photo/high-angle-scouts-playing-with-map_23-2149885211.jpg?w=1060&t=st=1684787385~exp=1684787985~hmac=0b0107eb4e58e9ff205024551542403e31dfa9827e1a3ad8ce8bb3598dbd5a9c](https://storage.googleapis.com/spectacles-v3/6b5bcd7414cdddf3e35be5e76a62ac7e9ef89693/Products/module1/DT/Product_Module1_DT_HoverOnModel.webp))
+![Spectacles](https://storage.googleapis.com/spectacles-v3/6b5bcd7414cdddf3e35be5e76a62ac7e9ef89693/Products/module1/DT/Product_Module1_DT_HoverOnModel.webp)
 
 
 ## Re-descubriendo la hibridacion: Duolingo
 
-Duolingo es un proyecto del ámbito de la educación y el aprendizaje de idiomas. Esta plataforma de aprendizaje en línea ha revolucionado la forma en que las personas adquieren habilidades lingüísticas a través de la combinación de elementos físicos y digitales en una experiencia educativa única.
+Duolingo es un proyecto del ámbito de la **educación y el aprendizaje de idiomas**. Esta plataforma de aprendizaje en línea ha revolucionado la forma en que las personas adquieren habilidades lingüísticas a través de la combinación de elementos físicos y digitales en una experiencia educativa única.
 
-La hibridación en Duolingo se manifiesta en múltiples aspectos. En primer lugar, la plataforma utiliza el poder de la tecnología digital para ofrecer cursos interactivos y personalizados de idiomas. Los usuarios pueden acceder a lecciones y ejercicios desde sus móviles, tablets u ordenadores, lo que les permite aprender en cualquier momento y lugar. Esta fusión entre la tecnología digital y la educación tradicional proporciona una experiencia de aprendizaje flexible y adaptada a las necesidades individuales de cada usuario.
+La hibridación en Duolingo se manifiesta en múltiples aspectos. En primer lugar, la plataforma utiliza el poder de la tecnología digital para ofrecer **cursos interactivos y personalizados de idiomas**. Los usuarios pueden acceder a lecciones y ejercicios desde sus móviles, tablets u ordenadores, lo que les permite aprender en cualquier momento y lugar. Esta fusión entre la tecnología digital y la educación tradicional proporciona una experiencia de aprendizaje flexible y adaptada a las necesidades individuales de cada usuario.
 
-Además, esta plataforma emplea técnicas de gamificación para motivar y comprometer a los usuarios en su proceso de aprendizaje. A través de elementos como recompensas, niveles y desafíos, la plataforma crea una experiencia educativa divertida y atractiva. Los usuarios pueden ganar puntos y desbloquear logros a medida que avanzan en su dominio del idioma, lo que genera un sentido de logro y progresión. Esta integración de elementos de juego en un entorno educativo es un ejemplo claro de cómo la hibridación puede transformar la forma en que nos aproximamos al aprendizaje.
+Además, esta plataforma emplea **técnicas de gamificación para motivar y comprometer a los usuarios** en su proceso de aprendizaje. A través de elementos como recompensas, niveles y desafíos, la plataforma crea una experiencia educativa divertida y atractiva. Los usuarios pueden ganar puntos y desbloquear logros a medida que avanzan en su dominio del idioma, lo que genera un sentido de logro y progresión. Esta integración de elementos de juego en un entorno educativo es un ejemplo claro de cómo la hibridación puede transformar la forma en que nos aproximamos al aprendizaje.
 
-Otro aspecto destacado de Duolingo es la incorporación de la inteligencia artificial en su plataforma. Mediante el uso de algoritmos avanzados, la plataforma analiza el rendimiento y las respuestas de los usuarios para proporcionar retroalimentación personalizada y recomendaciones de estudio. La inteligencia artificial se adapta al nivel y estilo de aprendizaje de cada usuario, lo que optimiza su progreso y les brinda una experiencia de aprendizaje individualizada. Esta integración de la inteligencia artificial en el proceso de enseñanza-aprendizaje es un ejemplo de cómo la hibridación puede mejorar la eficacia y la personalización en la educación.
+Otro aspecto destacado de Duolingo es la **incorporación de la inteligencia artificial en su plataforma**. Mediante el uso de algoritmos avanzados, la plataforma analiza el rendimiento y las respuestas de los usuarios para proporcionar retroalimentación personalizada y recomendaciones de estudio. La inteligencia artificial se adapta al nivel y estilo de aprendizaje de cada usuario, lo que optimiza su progreso y les brinda una experiencia de aprendizaje individualizada. Esta integración de la inteligencia artificial en el proceso de enseñanza-aprendizaje es un ejemplo de cómo la hibridación **puede mejorar la eficacia y la personalización en la educación.**
 Asimismo, Duolingo promueve la interacción social entre los usuarios a través de los foros de discusión y las opciones de estudio en grupos. Los estudiantes pueden conectarse con otros usuarios que están aprendiendo el mismo idioma, lo que les brinda la oportunidad de practicar y mejorar sus habilidades lingüísticas a través de la comunicación y la colaboración. Esta dimensión social en la plataforma fomenta la construcción de una comunidad de aprendizaje, en la que los usuarios pueden apoyarse mutuamente y compartir experiencias.
 
-En conclusión, Duolingo ha influido en la forma en que las personas aprenden un nuevo idioma. Al proporcionar una plataforma accesible, interactiva y basada en retroalimentación positiva, ha democratizado el acceso a la educación lingüística. Los usuarios pueden aprender nuevos idiomas de manera autónoma y a su propio ritmo, sin necesidad de asistir a clases presenciales tradicionales. Esto ha llevado a un aumento en la diversidad lingüística y ha fomentado el interés de lo susuarios por aprender un nuevo idioma.
+En conclusión, Duolingo ha influido en la forma en que las personas aprenden un nuevo idioma. Al proporcionar una plataforma accesible, interactiva y basada en retroalimentación positiva, ha democratizado el acceso a la educación lingüística. Los usuarios pueden aprender nuevos idiomas de manera autónoma y a su propio ritmo, sin necesidad de asistir a clases presenciales tradicionales. Esto ha llevado a un aumento en la **diversidad lingüística y ha fomentado el interés** de lo susuarios por aprender un nuevo idioma.
 
 ![Duolingo](https://marketing4ecommerce.net/wp-content/uploads/2015/09/duolingo-compressor-1280x720.jpg)
 
@@ -61,4 +61,5 @@ En conclusión, Duolingo ha influido en la forma en que las personas aprenden un
 
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
+
 Marta Júdez Ballestín. 2023
