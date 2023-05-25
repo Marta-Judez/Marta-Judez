@@ -1,3 +1,3 @@
-- Autor: Marta-Judez
+- Autor: Marta Judez Ballestín
 - Asignatura: Cultura Digital - Aula 1
 - Fecha: Mayo 2023
